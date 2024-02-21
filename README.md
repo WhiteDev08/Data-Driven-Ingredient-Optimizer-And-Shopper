@@ -10,10 +10,29 @@ This Python project tailored to simplify the grocery shopping process for home c
 ### Prerequisites
 - Python 3.6+
 - OpenAI API Key
-- Required Python packages: requests, beautifulsoup4, pandas
+- Required Python packages: `requests`, `beautifulsoup4`, `pandas`
 
 ### Configuration
-Create a .env file in the project directory. Add your OpenAI API key to the .env file as follows:
-'''bash
+Create a `.env` file in the project directory. Add your OpenAI API key to the `.env` file as follows:
+
+```
 OPENAI_API_KEY=your_api_key_here
-'''
+```
+
+### Usage
+To use Automated Ingredient Analyzer and Shopper, follow these steps: Run the script:
+```
+python script.py
+```
+When prompted, enter the dish name that you wish to make. The program will then output a summary of the best options for each ingredient based on the scraped data.
+
+
+### Contribution
+To contribute to Automated Ingredient Analyzer and Shopper, follow these steps:
+```
+1. Fork this repository.
+2. Create a new branch: git checkout -b branch_name.
+3. Make your changes and commit them: git commit -m 'commit_message'.
+4. Push to the original branch: git push origin Automated Ingredient Analyzer and Shopper/branch_name.
+5. Create the pull request.
+```
