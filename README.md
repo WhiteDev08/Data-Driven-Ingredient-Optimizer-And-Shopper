@@ -14,6 +14,6 @@ This Python project tailored to simplify the grocery shopping process for home c
 
 ### Configuration
 Create a .env file in the project directory. Add your OpenAI API key to the .env file as follows:
-'''
+'''bash
 OPENAI_API_KEY=your_api_key_here
 '''
