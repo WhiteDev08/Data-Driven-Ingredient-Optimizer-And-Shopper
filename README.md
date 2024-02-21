@@ -36,3 +36,5 @@ To contribute to Automated Ingredient Analyzer and Shopper, follow these steps:
 4. Push to the original branch: git push origin Automated Ingredient Analyzer and Shopper/branch_name.
 5. Create the pull request.
 ```
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
